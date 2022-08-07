@@ -1,6 +1,6 @@
 # Control-Stepper-Moto-by-Sequence-PIC18F
 
-design a circuit using PIC Microcontroller to control the stepper motor by generating following pattern: 1100 , 0110 , 0011, 1001 
+
 ![image](https://user-images.githubusercontent.com/95694625/183306339-ae8ad03d-f5b1-4adf-835c-1e701f8e615b.png)
 
 
